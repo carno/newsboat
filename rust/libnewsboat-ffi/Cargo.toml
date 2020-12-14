@@ -7,7 +7,7 @@ edition = "2018"
 [dependencies]
 libnewsboat = { path="../libnewsboat" }
 libc = "0.2"
-cxx = "0.5"
+cxx = "1.0"
 
 [build-dependencies]
 cxx-build = "0.5"
